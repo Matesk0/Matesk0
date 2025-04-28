@@ -27,6 +27,14 @@
 
 ###
 
+<p align="left">Give someone a program; you frustrate them for a day; teach them how to program, and you frustrate them for a lifetime – David Leinweber</p>
+
+###
+
+<p align="left">Debugging becomes significantly easier if you first admit that you are the problem – William Laeder</p>
+
+###
+
 <img src="https://raw.githubusercontent.com/Matesk0/Matesk0/output/snake.svg" alt="Snake animation" />
 
 ###
