@@ -27,11 +27,11 @@
 
 ###
 
-<p align="left">Give someone a program; you frustrate them for a day; teach them how to program, and you frustrate them for a lifetime – David Leinweber</p>
+<p align="left">Give someone a program; you frustrate them for a day; teach them how to program, and you frustrate them for a lifetime</p>
 
 ###
 
-<p align="left">Debugging becomes significantly easier if you first admit that you are the problem – William Laeder</p>
+<p align="left">Debugging becomes significantly easier if you first admit that you are the problem</p>
 
 ###
 
