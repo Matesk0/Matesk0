@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matesk0&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matesk0&radius=0&theme=high-contrast&area=true&order=5&hide_border=false&hide_title=false&bg_color=262626&title_color=FFFFAF&point=FFFFFF" height="100" alt="activity-graph graph"  />
 </div>
 
 ###
