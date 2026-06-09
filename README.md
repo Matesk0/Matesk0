@@ -8,32 +8,32 @@ I enjoy exploring how software works under the hood, building efficient systems,
 </h3>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Matesk0&locale=en&mode=daily&theme=github-dark-dimmed&hide_border=false&border_radius=4&background=FFFFFF&sideNums=000000&currStreakNum=000000&dates=555555&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&border=CCCCCC" height="120" alt="streak graph" />
-  <img src="https://raw.githubusercontent.com/Matesk0/Matesk0/languages-output/languages.svg" height="120" alt="languages graph" style="filter: grayscale(1);" />
+  <img src="https://streak-stats.demolab.com?user=Matesk0&locale=en&mode=daily&hide_border=true&border_radius=4&background=000000&sideNums=ffffff&currStreakNum=ffffff&dates=888888&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888" height="120" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matesk0&layout=compact&bg_color=000000&title_color=ffffff&text_color=888888&hide_border=true" height="120" alt="languages graph" />
 </div>
 
-<div align="left" style="margin: 8px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="24" style="filter: grayscale(1) brightness(0);" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="24" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="24" style="filter: grayscale(1) brightness(0);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="24" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" style="filter: grayscale(1) brightness(0);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="24" style="filter: grayscale(1) brightness(0);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="24" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" style="filter: grayscale(1) brightness(0);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="24" style="filter: grayscale(1) brightness(0);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="24" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="24" style="filter: grayscale(1) brightness(0);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="24" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24" style="filter: grayscale(1) brightness(0);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24" style="filter: grayscale(1) brightness(0);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="24" style="filter: grayscale(1) brightness(0);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="24" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="24" style="filter: grayscale(1) brightness(0);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="24" />
 </div>
 
 <div align="left">
