@@ -9,9 +9,9 @@ I enjoy exploring how software works under the hood, building efficient systems,
 </h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Matesk0/Matesk0/stats-output/stats.svg" height="140" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Matesk0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=2" height="140" alt="streak graph" />
-  <img src="https://raw.githubusercontent.com/Matesk0/Matesk0/languages-output/languages.svg" height="140" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/Matesk0/Matesk0/stats-output/stats.svg" height="140" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Matesk0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=2" height="140" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Matesk0/Matesk0/languages-output/languages.svg" height="140" alt="languages graph"  />
 </div>
 
 <br />
