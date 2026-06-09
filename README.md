@@ -3,8 +3,8 @@ I am a university student studying Programming and Application Development at Ma
 I enjoy exploring how software works under the hood, building efficient systems, and solving algorithmic challenges.<br><br>
 💻 <b>Stack:</b> Python, C, and expanding &nbsp;·&nbsp;
 🔧 <b>Environment:</b> Linux, Hyprland, Neovim &nbsp;·&nbsp;
-🧠 <b>Interests:</b> Low-level programming, networks, algorithms, high-performance microservices &nbsp;·&nbsp;
-🚀 <b>Currently:</b> Deepening knowledge in algorithms, practical projects, high-performance systems.<br><br>
+🧠 <b>Interests:</b> Programming, working out, reading, gaming &nbsp;·&nbsp;
+🚀 <b>Currently:</b> Deepening knowledge in school<br><br>
 <i>"Simplicity is the ultimate sophistication."</i>
 </h3>
 
