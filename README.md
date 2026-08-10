@@ -1,4 +1,4 @@
-<h3 align="left">Hi there, I'm Jakub! 👋<br><br>
+<h3 align="left">Hi there, I'm <a href="https://matesk0.github.io/AboutMe/">Jakub</a>! 👋<br><br>
 I am a university student studying Programming and Application Development at Masaryk University.<br>
 I enjoy exploring how software works under the hood, building efficient systems, and solving algorithmic challenges.<br><br>
 💻 <b>Stack:</b> Python, C, and expanding &nbsp;·&nbsp;
